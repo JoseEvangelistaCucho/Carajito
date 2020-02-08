@@ -10,10 +10,6 @@ import Vista.Vista;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-/**
- *
- * @author l03m09
- */
 public class control implements ActionListener{
     
     private Vista view;
